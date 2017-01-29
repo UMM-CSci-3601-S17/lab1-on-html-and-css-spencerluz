@@ -1,5 +1,5 @@
 h3 {
-    color: red;
+    color: #0020ff;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
 
@@ -16,4 +16,12 @@ img {
 
 .centerText {
     text-align: center;
+}
+ul.tab a:hover{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    border: 1px solid #f1f1f1;
+    background-color: #b8b8b8;
+
 }
